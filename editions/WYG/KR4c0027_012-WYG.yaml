@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4c0027/WYG/v1/juan/12
+seq: 12
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 去
+  hash: sha256:99ae21ea6c39ccc19fba135c236c1592bb32672cbc1f79173a06296a0b9bfb67
+metadata:
+  title: 唐元次山文集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-11 08:04:48.256311'
+  source:
+    repository: kanripo
+    path: KR4c0027/KR4c0027_012.txt
+hash: sha256:c9fec7b53cd1ee27780c55ea2b7f87d7e114bec2b84d968b73043366504fca9f
