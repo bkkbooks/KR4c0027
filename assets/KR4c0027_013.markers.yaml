@@ -36,6 +36,7 @@ markers:
   - {type: substitution, offset: 49, original: 㑹, replacement: 會, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0002}}
   - {type: punctuation, offset: 50, content: (, id: KR4c0027_krp_013-bkkpn1}
   - {type: variant, offset: 50, length: 1, content: 并, WYG: ''}
+  - {type: voice, offset: 50, length: 6, name: note, id: n1}
   - {type: punctuation, offset: 52, content: /, id: KR4c0027_krp_013-bkkpn2}
   - {type: variant, offset: 52, length: 4, content: 詩見卷四, WYG: ''}
   - {type: punctuation, offset: 56, content: ), id: KR4c0027_krp_013-bkkpn3}
@@ -92,6 +93,7 @@ markers:
   - {type: indent, offset: 196, content: 　　　, id: KR4c0027_krp_013-bkkind5}
   - {type: punctuation, offset: 203, content: (, id: KR4c0027_krp_013-bkkpn4}
   - {type: variant, offset: 203, length: 1, content: 并, WYG: ''}
+  - {type: voice, offset: 203, length: 12, name: note, id: n2}
   - {type: punctuation, offset: 205, content: /, id: KR4c0027_krp_013-bkkpn5}
   - {type: variant, offset: 205, length: 10, content: 詩見卷四題作别孟校書, WYG: ''}
   - {type: punctuation, offset: 209, content: /, id: KR4c0027_krp_013-bkkpn6}
@@ -224,6 +226,7 @@ markers:
   - {type: page-break, offset: 398, content: '', id: KR4c0027_WYG_009-9a, image: WYG1071/WYG1071-0565c.png}
   - {type: punctuation, offset: 399, content: (, id: KR4c0027_krp_013-bkkpn8}
   - {type: variant, offset: 399, length: 0, content: '', WYG: 妓菊非可惡之草使有酒徒菊為助興之物為之作記以託後人并録藥經列於記後廣宴亭記樊水東盡其南乃樊山北鮮津吏欲於鮮上而為候舍漫叟家於樊上不醉則閒乃相其地形驗之圖記故實為宴遊之處縣大夫馬公登之歎曰謝公贈伏武昌}
+  - {type: voice, offset: 399, length: 8, name: note, id: n3}
   - {type: variant, offset: 400, length: 0, content: '', WYG: 云樊山開廣宴非此地耶吾欲因而修之命曰廣宴亭何如漫叟頌之曰古人將修廢遺尤異之事為君子之道於戲天下有廢遺尤異之事如此亭者誰能修而旌之天將厭悔往乎使公方壯而有是心也當裁蓄簡扎待為之頌故作此廣宴記殊亭記癸卯中扶風馬向兼理武昌以明信嚴㫁惠正為理故政不待時而成於戲若明而不信嚴而不㫁惠而不正雖欲理身終不自理况於人哉公能令人理使身多暇招我畏暑且為凉亭亭臨大江復出山上佳木相蔭常多清風巡回極望目不厭逺吾}
   - {type: page-break, offset: 400, content: '', id: KR4c0027_WYG_009-9b, image: WYG1071/WYG1071-0565d.png}
   - {type: page-break, offset: 400, content: '', id: KR4c0027_WYG_009-10a, image: WYG1071/WYG1071-0566a.png}
@@ -335,6 +338,7 @@ markers:
   - {type: indent, offset: 463, content: 　　　, id: KR4c0027_krp_013-bkkind7}
   - {type: punctuation, offset: 465, content: (, id: KR4c0027_krp_013-bkkpn10}
   - {type: variant, offset: 465, length: 22, content: 卷四欵乃曲後靈橘無根井有泉世間如夢又千年鄉園, WYG: 稅臣之懇願塵黷天威}
+  - {type: voice, offset: 465, length: 6, name: note, id: n4}
   - {type: punctuation, offset: 471, content: ), id: KR4c0027_krp_013-bkkpn11}
   - {type: 'kr:newline', offset: 471, content: '
 
@@ -360,4 +364,4 @@ markers:
 
       ', id: KR4c0027_krp_013-bkkkrnewl33}
   back: []
-hash: sha256:292805b38545fe04597b1583d1a941642581c3969244f31d208d5e5dd287d429
+hash: sha256:38ed43fbe58a08ec5c5013bbddc3430bbed37d1a60b898d67c08dbb7f501cb41
